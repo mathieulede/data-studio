@@ -4,6 +4,4 @@ title: Contact me
 
 ---
 
-* [Twitter](http://twitter.com/blahblah)
-* [user@example.com](mailto:user@example.com)
-* [Instagram](http://instagram.com/blahblah)
+* [mathieu.rudaz@24heures.com](mailto:mathieu.rudaz@24heures.com)
