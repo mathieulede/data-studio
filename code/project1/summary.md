@@ -23,6 +23,10 @@ I want to focus on basic perceptions: size of the average piece of art, surface 
 
 ## Sketches/inspiration
 
-![](https://github.com/mathieulede/data-studio/blob/master/code/project1/IMG_0425.JPG?raw=true)
+![](https://github.com/mathieulede/data-studio/blob/master/code/project1/Screen%20Shot%202017-07-16%20at%209.39.37%20PM.png?raw=true)
+[FiveThirtyEight - Gun deaths in America](https://fivethirtyeight.com/features/gun-deaths/)
 
-[Power of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0)
+![](https://github.com/mathieulede/data-studio/blob/master/code/project1/Screen%20Shot%202017-07-16%20at%209.40.39%20PM.png?raw=true)
+[Power of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0?raw=true)
+
+![](https://github.com/mathieulede/data-studio/blob/master/code/project1/IMG_0425.JPG?raw=true)
