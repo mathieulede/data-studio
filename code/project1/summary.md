@@ -20,4 +20,4 @@ I want to focus on basic perceptions. Size of the average frame, surface occupie
 
 ## Sketches/inspiration
 
-[https://github.com/mathieulede/data-studio/blob/master/code/project1/IMG_0425.JPG]
+![](https://github.com/mathieulede/data-studio/blob/master/code/project1/IMG_0425.JPG?raw=true)
