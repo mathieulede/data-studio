@@ -7,11 +7,11 @@ The Fine Arts Database records information on federally owned art in the control
 
 ## Pitch
 
-Give a idea of the size of the hidden art in the federal buildings.
+Give an idea of the size of the hidden art in the federal buildings.
 
 > The Fine Arts Collection is one of the nation's oldest and largest public art collections. It consists of mural and easel paintings, sculptures, architectural and environmental artworks, as well as prints and other works on paper dating from the 1850s to the present. These civic artworks are displayed in federal buildings and courthouses nationwide.
 
-I want to focus on basic perceptions: size of the average piece of art, surface occupied by all the frames. I want to give an idea of the real number of pieces of arts by showing them all, compare this number for each city and give information about the appraisal of all this collection.
+I want to focus on basic perceptions: size of the average piece of art, surface occupied by all the frames. I want to give an idea of the real number of pieces of arts by showing them all in one place, compare this number for each city and give information about the appraisal of all this collection.
 
 ## Possible headlines
 
