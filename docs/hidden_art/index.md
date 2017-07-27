@@ -10,5 +10,6 @@ The Fine Arts Collection is one of the nation's oldest and largest public art co
 
 Let's visualize this art collection locked away in federal buildings and, for the most part, hidden from the public.
   
-  
+<br/><br/>
+
 ![](output.png)
