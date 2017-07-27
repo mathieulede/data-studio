@@ -28,3 +28,15 @@ https://cloud.google.com/sdk/docs/
 ```sh
 gsutil cp -r gs://project_name/folder/ ~/destination_folder
 ```
+
+### Draw in Jupyter notebook
+Install cairo
+```sh
+brew install cairo
+```
+
+Install cairocffi
+```sh
+pip install cairocffi
+```
+

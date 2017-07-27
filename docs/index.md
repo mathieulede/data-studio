@@ -8,4 +8,4 @@ layout: default
 
 This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
-* [Project 1]({{ site.url }}/a-very-cool-project): Lorem ipsum
+* [Project 1]({{ site.url }}/hidden_art): The hidden art of everydays buildings
