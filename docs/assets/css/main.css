@@ -11,6 +11,12 @@ body{
   width: 100%;
 }
 
+#footer{
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+}
+
 img{
   width: 100%;
 }
