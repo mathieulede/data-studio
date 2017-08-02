@@ -1,13 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:300,400,700');
 
-.container {
-  width: 750px;
-  color: #333;
-  margin: 0 auto;
-  padding-bottom: 60px;
-  padding-top: 60px;
+body{
   font-family: "Work Sans", Sans-serif;
-  position: relative;
+  background-color: #f5f6f7;
 }
 
 #nav {
@@ -27,8 +22,8 @@ h2 {
 }
 
 p {
-  font-size: 24px;
-  line-height: 1.8;
+  font-size: 14px;
+  line-height: 18px;
 }
 
 li {

@@ -13,3 +13,11 @@ Let's visualize this art collection locked away in federal buildings and, for th
 <br/>
 
 ![](output_03.jpg)
+
+    <div class="row">
+        <div class="col-md-offset-3 col-md-6">
+        <p>
+The Fine Arts Collection is one of the nation's oldest and largest public art collections. It consists of mural and easel paintings, sculptures, architectural and environmental artworks, as well as prints and other works.
+        </p>
+        </div>
+    </div>
