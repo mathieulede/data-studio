@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300,400,700');
+
 .container {
   width: 750px;
   color: #333;
   margin: 0 auto;
   padding-bottom: 60px;
   padding-top: 60px;
-  font-family: Georgia, sans-serif;
+  font-family: "Work Sans", Sans-serif;
   position: relative;
 }
 

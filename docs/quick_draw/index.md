@@ -12,4 +12,4 @@ Let's visualize this art collection locked away in federal buildings and, for th
   
 <br/>
 
-![](output2-09.jpg)
+![](output_03.jpg)
