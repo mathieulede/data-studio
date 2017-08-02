@@ -6,7 +6,7 @@ body{
 }
 
 #nav {
-  padding: 40;
+  padding: 40px;
   text-align: center;
   width: 100%;
 }
@@ -34,6 +34,8 @@ li {
 }
 
 a {
+  cursor: pointer;
+  text-decoration: underline;
   padding: 3px 6px;
   color: #000;
 }
