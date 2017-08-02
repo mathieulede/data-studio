@@ -1,7 +1,6 @@
 ---
 
-title: The hidden art of everydays buildings
-resume: The Fine Arts Collection is one of the nation's oldest and largest public art collections. It consists of mural and easel paintings, sculptures, architectural and environmental artworks, as well as prints and other works.
+title: The drawings that defeat Google
 layout: project
 
 ---
