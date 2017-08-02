@@ -15,3 +15,4 @@ Let's visualize this art collection locked away in federal buildings and, for th
 ![](output_G1.jpg)
 ![](test.jpg)
 ![](output_G3.jpg)
+![](output_G4.jpg)
