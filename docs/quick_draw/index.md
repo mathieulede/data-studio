@@ -14,7 +14,6 @@ AI is everywhere in the news and it seems that we are on the verge on letting so
 
 ![](output_G1.jpg)
 ![](output_G2.jpg)
-![](test.jpg)
 ![](output_G3.jpg)
 ![](output_G4.jpg)
 ![](output_G5.jpg)
