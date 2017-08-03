@@ -14,6 +14,7 @@ AI is everywhere in the news and it seems that we are on the verge on letting so
 
 ![](output_G1.jpg)
 ![](output_G2.jpg)
+AI is everywhere in the news and it seems that we are on the verge on letting some decisions be taken by computers. But **what is lost in the process?** Is AI making everything average, etc.
 ![](output_G3.jpg)
 ![](output_G4.jpg)
 ![](output_G5.jpg)
