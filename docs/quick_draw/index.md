@@ -24,5 +24,5 @@ AI is everywhere in the news and it seems that we are on the verge on letting so
 
 <br/><br/><br/>AI is everywhere in the news and it seems that we are on the verge on letting some decisions be taken by computers. But **what is lost in the process?** Is AI making everything average, etc.
 
-<br/><br/><br/>Time to decieve Google's expectations!
+**Time to decieve Google's expectations!**
 [https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com/)
