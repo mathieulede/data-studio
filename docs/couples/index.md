@@ -14,4 +14,4 @@ It seems that we are on the verge of letting important decisions be taken by com
   
 <br/>
 
-![](output_v2.jpg)
+![wide](output_v2.jpg)

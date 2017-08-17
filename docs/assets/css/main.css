@@ -21,6 +21,11 @@ img{
   width: 100%;
 }
 
+img[alt='wide']{
+  width: 800px;
+  height: auto;
+}
+
 h1 {
   font-size: 54px;
   margin-bottom: 40px;
