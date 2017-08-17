@@ -5,7 +5,10 @@ layout: project
 
 ---
 
-# The unmovable figures of classical music
+# How to make a Game of Thrones last episode climax
+
+![](got.gif)
+
 
 Millions of doodles from all around the world have been collected by Google to feed a **neural network** capable of recognizing what is beeing drawn. This artificial intelligence is one of the ever-increasing algorithmic systems that are living with us.
 
