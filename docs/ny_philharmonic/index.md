@@ -14,7 +14,7 @@ It seems that we are on the verge of letting important decisions be taken by com
   
 <br/>
 
-![](output_2.png)
+![](output-1.png)
 <br/><br/><br/>
 People playing at Google Quick Draw are asking to draw a concept in less than 20 seconds. The resulting drawings look like children doodles. But they are not. They are the drawings that everyone made one day.
 Algorithmic systems tend to avoid what is not the norm, exclude eccentricity and prevent errors. But errors and eccentricity are what makes creativity and humanity.<br/><br/><br/><br/>
