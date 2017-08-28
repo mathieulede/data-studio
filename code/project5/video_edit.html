@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <style type="text/css">
+        body{
+            font-family: sans-serif;
+        }
+
+        .log_box{
+            margin: 20px 0px;
+            text-align: left;
+        }
+
+        .label{
+            font-size: 10px;
+            color: #333;
+            text-align: center;
+            padding: 0px;
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+<html>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 text-center">
+            <video id='video' width="320" height="240" controls>
+              <source src="SE07EP06.mp4" type="video/mp4">
+            </video>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <div id='duration' class="log_box">
+                <div class="label">Duration:</div>
+                <div class="value"></div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div id='current' class="log_box">
+                <div class="label">Current time:</div>
+                <div class="value"></div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div id='segment' class="log_box">
+                <div class="label">Current segment:</div>
+                <div class="value"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    var video = $('#video').get(0);
+    currentSegment = 0;
+    var blankSegmentsData = [[0,96],[107,147],[223,235],[284,294],[350,359],[422,447],[544,553],[746,776],[976,984],[997,1005],[1289,1336],[1340,1347],[1349,1469],[1474,1492],[1494,1510],[1523,1551],[1659,1671],[1706,1746],[1749,1893],[1905,1923],[1924,1941],[1942,2103],[2112,2151],[2157,2175],[2177,2190],[2214,2225],[2230,2253],[2335,2348],[2349,2359],[2452,2474],[2511,2565],[2567,2587],[2590,2737],[2743,2768],[2769,2954],[2955,3061],[3066,3235],[3246,3317],[3321,3350],[3356,3488],[3637,3692],[3698,3708],[3798,3814],[3818,3839],[3841,3600]];
+
+    $('#video').on(
+        "timeupdate", 
+        function(event){
+          onTrackedVideoFrame(this.currentTime, this.duration);
+          if(this.currentTime > blankSegmentsData[currentSegment][1]){
+            currentSegment = (currentSegment + 1) % blankSegmentsData.length;
+            video.currentTime = blankSegmentsData[currentSegment][0]
+          }
+        });
+
+    function onTrackedVideoFrame(currentTime, duration){
+        $("#current .value").text(currentTime);
+        $("#duration .value").text(duration);
+        $("#segment .value").text(currentSegment + " (" + blankSegmentsData[currentSegment][0] + ":" + blankSegmentsData[currentSegment][1] + ")");
+    }
+
+    video.currentTime = blankSegmentsData[0][0]
+    video.playbackRate = 60.0;
+    video.play();
+
+});
+
+</script>
+
+</body>
+</html>
